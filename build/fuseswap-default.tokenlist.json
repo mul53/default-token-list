@@ -2,7 +2,7 @@
   "name": "Fuse Token List",
   "timestamp": "2020-11-06T18:19:34.357Z",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -1053,30 +1053,6 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "name": "Digital Rand on Fuse",
-      "address": "0xBfF749Fa790D4Cbb789a63B5e5173E3F877aD237",
-      "symbol": "DZAR",
-      "decimals": 6,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
-    },
-    {
-      "name": "DAOstack on Fuse",
-      "address": "0xc18c5B6863f6bDb5CE4cB761bA5EC2E1ff6240af",
-      "symbol": "GEN",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png"
-    },
-    {
-      "name": "Nexo on Fuse",
-      "address": "0xe4Ee764CB090acF4ABC1454917D9bc54f13aEd79",
-      "symbol": "NEXO",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
