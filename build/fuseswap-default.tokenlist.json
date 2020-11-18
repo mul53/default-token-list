@@ -328,7 +328,7 @@
     },
     {
       "name": "GoodDollar",
-      "address": "0x67c5870b4a41d4ebef24d2456547a03f1f3e094b"
+      "address": "0x67c5870b4a41d4ebef24d2456547a03f1f3e094b",
       "symbol": "G$",
       "decimals": 2,
       "chainId": 1,
@@ -1080,7 +1080,7 @@
     },
      {
       "name": "GoodDollar",
-      "address": "0x495d133b938596c9984d462f007b676bdc57ecec"
+      "address": "0x495d133b938596c9984d462f007b676bdc57ecec",
       "symbol": "G$",
       "decimals": 2,
       "chainId": 122,
